@@ -1,0 +1,3 @@
+Halt for traffic
+display message of halt to user
+master user
